@@ -15,6 +15,7 @@
     "lucide-react": "^1.14.0",
     "next": "16.3.0-canary.17",
     "ogl": "^1.0.11",
+    "posthog-js": "^1.374.2",
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "shadcn": "^4.7.0",
